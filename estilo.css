@@ -5,3 +5,7 @@
 <li{
 	font-family: monospace;
 }
+body{
+	width: 50%;
+	margin: auto;
+}
